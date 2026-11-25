@@ -1,0 +1,58 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigLeftArm": [
+      0.458412,
+      0.115971,
+      -0.284855,
+      0.833827
+    ],
+    "mixamorigRightArm": [
+      0.273565,
+      0.035193,
+      0.142048,
+      0.950656
+    ],
+    "mixamorigLeftHandThumb3": [
+      -0.601272,
+      -0.218646,
+      -0.378322,
+      0.668983
+    ],
+    "mixamorigRightHandThumb3": [
+      -0.580821,
+      0.229611,
+      0.374268,
+      0.685456
+    ],
+    "mixamorigRightArm#53": [
+      -0.456,
+      0.248515,
+      0.094821,
+      -0.849301
+    ],
+    "mixamorigLeftForeArm#56": [
+      0.096407,
+      -0.028734,
+      0.621078,
+      0.777265
+    ],
+    "mixamorigRightForeArm#54": [
+      0.090781,
+      -0.013536,
+      -0.391457,
+      0.915608
+    ],
+    "mixamorigRightHandPinky3": [
+      -0.022185,
+      0.552645,
+      -0.61119,
+      0.566161
+    ]
+  },
+  "clip": "Roundhouse Kick",
+  "time": 0.0525,
+  "loop": true,
+  "speed": 1
+}

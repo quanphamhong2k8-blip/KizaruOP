@@ -1,0 +1,52 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigRightForeArm#54": [
+      -0.002654,
+      0.104045,
+      0.468724,
+      -0.877192
+    ],
+    "mixamorigLeftForeArm#56": [
+      -0.024802,
+      0.02287,
+      -0.550444,
+      -0.83419
+    ],
+    "mixamorigRightArm#53": [
+      -0.555209,
+      0.252699,
+      -0.051573,
+      -0.790712
+    ],
+    "mixamorigLeftArm": [
+      -0.535886,
+      -0.175082,
+      0.060097,
+      -0.823748
+    ],
+    "mixamorigRightArm": [
+      -0.348311,
+      0.104943,
+      -0.040926,
+      -0.930587
+    ],
+    "mixamorigRightHandThumb3": [
+      0.820316,
+      -0.256309,
+      0.271487,
+      0.433223
+    ],
+    "mixamorigLeftHandThumb3": [
+      0.8076,
+      0.26179,
+      -0.267207,
+      0.455905
+    ]
+  },
+  "clip": "Kicking",
+  "time": 0.436,
+  "loop": true,
+  "speed": 1
+}

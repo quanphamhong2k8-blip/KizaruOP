@@ -1,0 +1,172 @@
+{
+  "type": "bone-anim",
+  "version": 1,
+  "locks": {
+    "mixamorigLeftForeArm#56": [
+      -0.047554,
+      0.058848,
+      0.657212,
+      0.749899
+    ],
+    "mixamorigRightArm#53": [
+      0.463453,
+      0.091688,
+      0.151108,
+      0.868315
+    ],
+    "mixamorigLeftArm": [
+      0.534855,
+      0.127249,
+      -0.13055,
+      0.825042
+    ],
+    "mixamorigRightArm": [
+      0.46233,
+      -0.111911,
+      0.246084,
+      0.844494
+    ],
+    "mixamorigRightForeArm#54": [
+      0.176132,
+      -0.213321,
+      -0.562317,
+      0.779276
+    ],
+    "mixamorigRightHand#55": [
+      0.184867,
+      -0.077417,
+      -0.295063,
+      0.934221
+    ],
+    "mixamorigLeftHand#57": [
+      -0.042797,
+      -0.095675,
+      0.304827,
+      0.946623
+    ],
+    "mixamorigSpine": [
+      0.284835,
+      -0.028617,
+      -0.042393,
+      0.957211
+    ],
+    "mixamorigLeftHandIndex1": [
+      0.301925,
+      0.005803,
+      0.187852,
+      0.934623
+    ],
+    "mixamorigRightHandIndex1": [
+      0.301008,
+      -0.004015,
+      -0.195121,
+      0.933438
+    ],
+    "mixamorigLeftHandIndex2": [
+      0.12978,
+      -0.003257,
+      0.032012,
+      0.991021
+    ],
+    "mixamorigRightHandIndex2": [
+      0.132734,
+      0.004901,
+      -0.032849,
+      0.990595
+    ],
+    "mixamorigLeftHandMiddle1": [
+      0.211065,
+      -0.003257,
+      0.125756,
+      0.969343
+    ],
+    "mixamorigRightHandMiddle1": [
+      0.178171,
+      0.008335,
+      -0.129184,
+      0.975447
+    ],
+    "mixamorigLeftHandMiddle2": [
+      0.234152,
+      -0.057289,
+      0.130511,
+      0.961695
+    ],
+    "mixamorigRightHandMiddle2": [
+      0.27074,
+      0.062131,
+      -0.130126,
+      0.951792
+    ],
+    "mixamorigLeftHandRing1": [
+      0.238233,
+      -0.066168,
+      0.083871,
+      0.965315
+    ],
+    "mixamorigRightHandRing1": [
+      0.230306,
+      0.068232,
+      -0.089616,
+      0.966578
+    ],
+    "mixamorigLeftHandRing2": [
+      0.224286,
+      -0.03521,
+      0.112653,
+      0.96735
+    ],
+    "mixamorigRightHandRing2": [
+      0.234653,
+      0.037884,
+      -0.113809,
+      0.96465
+    ],
+    "mixamorigLeftHandPinky1": [
+      0.323561,
+      -0.071136,
+      0.036957,
+      0.942806
+    ],
+    "mixamorigRightHandPinky1": [
+      0.298133,
+      0.019327,
+      -0.15611,
+      0.941474
+    ],
+    "mixamorigLeftHandPinky2": [
+      0.223678,
+      -0.198528,
+      0.159937,
+      0.940731
+    ],
+    "mixamorigRightHandPinky2": [
+      0.209633,
+      0.195076,
+      -0.163535,
+      0.944063
+    ],
+    "mixamorigLeftHandThumb3": [
+      0.113144,
+      -0.01795,
+      -0.004263,
+      0.993407
+    ],
+    "mixamorigRightHandThumb3": [
+      0.140824,
+      0.017804,
+      0.003404,
+      0.989869
+    ],
+    "mixamorigNeck#73": [
+      -0.037446,
+      0.013015,
+      0.018756,
+      0.999038
+    ]
+  },
+  "clip": "mixamo.com",
+  "time": 0.7327,
+  "loop": true,
+  "speed": 1.3
+}
